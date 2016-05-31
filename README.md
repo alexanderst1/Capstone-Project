@@ -15,5 +15,5 @@ Design an app that allows a user to indicate a set of subreddits that they would
 
 If you don't already have an idea in mind, you can implement the reddit project above.
 
-###### Completed design of "Eqv Viewer for Reddit" app: [Capstone_Stage1.pdf](Capstone_Stage1.pdf)
+###### Completed design of "Eqv Viewer for Reddit" app: [Capstone_Stage1.pdf](Capstone_Stage1.pdf?raw=true)
 
